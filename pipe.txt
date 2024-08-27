@@ -1,0 +1,12 @@
+pileline {
+
+   agent any
+
+
+
+   satges{
+
+	satge('scm') {
+
+} }
+}
